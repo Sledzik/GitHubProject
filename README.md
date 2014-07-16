@@ -5,3 +5,4 @@ GitHubProject
 :(:)
 :|
 ?
+auto rebase
