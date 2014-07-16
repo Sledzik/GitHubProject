@@ -1,6 +1,6 @@
 public class Sample {
 
 	public static void main(String[] args) {
-		System.out.println("hello8");
+		System.out.println("merge");
 	}
 }
